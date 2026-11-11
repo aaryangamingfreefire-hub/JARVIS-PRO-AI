@@ -1,0 +1,7 @@
+com.jarvispro.assistant.app-pngs-0 /mnt/sdcard/Download/JARVIS-PRO-AI/app/build/generated/res/pngs/debug
+com.jarvispro.assistant.app-resValues-1 /mnt/sdcard/Download/JARVIS-PRO-AI/app/build/generated/res/resValues/debug
+com.jarvispro.assistant.app-packageDebugResources-2 /mnt/sdcard/Download/JARVIS-PRO-AI/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.jarvispro.assistant.app-packageDebugResources-3 /mnt/sdcard/Download/JARVIS-PRO-AI/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.jarvispro.assistant.app-debug-4 /mnt/sdcard/Download/JARVIS-PRO-AI/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.jarvispro.assistant.app-debug-5 /mnt/sdcard/Download/JARVIS-PRO-AI/app/src/debug/res
+com.jarvispro.assistant.app-main-6 /mnt/sdcard/Download/JARVIS-PRO-AI/app/src/main/res

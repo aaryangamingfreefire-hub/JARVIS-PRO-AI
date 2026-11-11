@@ -1,0 +1,50 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.jarvispro.assistant"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+9        android:targetSdkVersion="35" />
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/mnt/sdcard/Download/JARVIS-PRO-AI/app/src/main/AndroidManifest.xml:2:5-66
+11-->/mnt/sdcard/Download/JARVIS-PRO-AI/app/src/main/AndroidManifest.xml:2:22-64
+12    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+12-->/mnt/sdcard/Download/JARVIS-PRO-AI/app/src/main/AndroidManifest.xml:3:5-70
+12-->/mnt/sdcard/Download/JARVIS-PRO-AI/app/src/main/AndroidManifest.xml:3:22-68
+13    <uses-permission android:name="android.permission.QUERY_ALL_PACKAGES" />
+13-->/mnt/sdcard/Download/JARVIS-PRO-AI/app/src/main/AndroidManifest.xml:4:5-76
+13-->/mnt/sdcard/Download/JARVIS-PRO-AI/app/src/main/AndroidManifest.xml:4:22-74
+14
+15    <application
+15-->/mnt/sdcard/Download/JARVIS-PRO-AI/app/src/main/AndroidManifest.xml:5:5-9:19
+16        android:debuggable="true"
+17        android:extractNativeLibs="false"
+18        android:label="JARVIS PRO"
+18-->/mnt/sdcard/Download/JARVIS-PRO-AI/app/src/main/AndroidManifest.xml:5:76-102
+19        android:theme="@android:style/Theme.Material.NoActionBar"
+19-->/mnt/sdcard/Download/JARVIS-PRO-AI/app/src/main/AndroidManifest.xml:5:18-75
+20        android:usesCleartextTraffic="true" >
+20-->/mnt/sdcard/Download/JARVIS-PRO-AI/app/src/main/AndroidManifest.xml:5:103-138
+21        <activity
+21-->/mnt/sdcard/Download/JARVIS-PRO-AI/app/src/main/AndroidManifest.xml:6:9-8:20
+22            android:name="com.jarvispro.assistant.MainActivity"
+22-->/mnt/sdcard/Download/JARVIS-PRO-AI/app/src/main/AndroidManifest.xml:6:19-47
+23            android:exported="true" >
+23-->/mnt/sdcard/Download/JARVIS-PRO-AI/app/src/main/AndroidManifest.xml:6:48-71
+24            <intent-filter>
+24-->/mnt/sdcard/Download/JARVIS-PRO-AI/app/src/main/AndroidManifest.xml:7:13-154
+25                <action android:name="android.intent.action.MAIN" />
+25-->/mnt/sdcard/Download/JARVIS-PRO-AI/app/src/main/AndroidManifest.xml:7:28-79
+25-->/mnt/sdcard/Download/JARVIS-PRO-AI/app/src/main/AndroidManifest.xml:7:36-77
+26
+27                <category android:name="android.intent.category.LAUNCHER" />
+27-->/mnt/sdcard/Download/JARVIS-PRO-AI/app/src/main/AndroidManifest.xml:7:79-138
+27-->/mnt/sdcard/Download/JARVIS-PRO-AI/app/src/main/AndroidManifest.xml:7:89-136
+28            </intent-filter>
+29        </activity>
+30    </application>
+31
+32</manifest>

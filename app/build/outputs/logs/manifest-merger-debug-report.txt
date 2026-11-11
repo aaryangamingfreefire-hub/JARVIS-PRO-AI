@@ -1,0 +1,61 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /mnt/sdcard/Download/JARVIS-PRO-AI/app/src/main/AndroidManifest.xml:1:1-10:12
+INJECTED from /mnt/sdcard/Download/JARVIS-PRO-AI/app/src/main/AndroidManifest.xml:1:1-10:12
+INJECTED from /mnt/sdcard/Download/JARVIS-PRO-AI/app/src/main/AndroidManifest.xml:1:1-10:12
+INJECTED from /mnt/sdcard/Download/JARVIS-PRO-AI/app/src/main/AndroidManifest.xml:1:1-10:12
+	package
+		INJECTED from /mnt/sdcard/Download/JARVIS-PRO-AI/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /mnt/sdcard/Download/JARVIS-PRO-AI/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /mnt/sdcard/Download/JARVIS-PRO-AI/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /mnt/sdcard/Download/JARVIS-PRO-AI/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /mnt/sdcard/Download/JARVIS-PRO-AI/app/src/main/AndroidManifest.xml:2:5-66
+	android:name
+		ADDED from /mnt/sdcard/Download/JARVIS-PRO-AI/app/src/main/AndroidManifest.xml:2:22-64
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /mnt/sdcard/Download/JARVIS-PRO-AI/app/src/main/AndroidManifest.xml:3:5-70
+	android:name
+		ADDED from /mnt/sdcard/Download/JARVIS-PRO-AI/app/src/main/AndroidManifest.xml:3:22-68
+uses-permission#android.permission.QUERY_ALL_PACKAGES
+ADDED from /mnt/sdcard/Download/JARVIS-PRO-AI/app/src/main/AndroidManifest.xml:4:5-76
+	android:name
+		ADDED from /mnt/sdcard/Download/JARVIS-PRO-AI/app/src/main/AndroidManifest.xml:4:22-74
+application
+ADDED from /mnt/sdcard/Download/JARVIS-PRO-AI/app/src/main/AndroidManifest.xml:5:5-9:19
+INJECTED from /mnt/sdcard/Download/JARVIS-PRO-AI/app/src/main/AndroidManifest.xml:5:5-9:19
+	android:extractNativeLibs
+		INJECTED from /mnt/sdcard/Download/JARVIS-PRO-AI/app/src/main/AndroidManifest.xml
+	android:label
+		ADDED from /mnt/sdcard/Download/JARVIS-PRO-AI/app/src/main/AndroidManifest.xml:5:76-102
+	android:theme
+		ADDED from /mnt/sdcard/Download/JARVIS-PRO-AI/app/src/main/AndroidManifest.xml:5:18-75
+	android:usesCleartextTraffic
+		ADDED from /mnt/sdcard/Download/JARVIS-PRO-AI/app/src/main/AndroidManifest.xml:5:103-138
+activity#com.jarvispro.assistant.MainActivity
+ADDED from /mnt/sdcard/Download/JARVIS-PRO-AI/app/src/main/AndroidManifest.xml:6:9-8:20
+	android:exported
+		ADDED from /mnt/sdcard/Download/JARVIS-PRO-AI/app/src/main/AndroidManifest.xml:6:48-71
+	android:name
+		ADDED from /mnt/sdcard/Download/JARVIS-PRO-AI/app/src/main/AndroidManifest.xml:6:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /mnt/sdcard/Download/JARVIS-PRO-AI/app/src/main/AndroidManifest.xml:7:13-154
+action#android.intent.action.MAIN
+ADDED from /mnt/sdcard/Download/JARVIS-PRO-AI/app/src/main/AndroidManifest.xml:7:28-79
+	android:name
+		ADDED from /mnt/sdcard/Download/JARVIS-PRO-AI/app/src/main/AndroidManifest.xml:7:36-77
+category#android.intent.category.LAUNCHER
+ADDED from /mnt/sdcard/Download/JARVIS-PRO-AI/app/src/main/AndroidManifest.xml:7:79-138
+	android:name
+		ADDED from /mnt/sdcard/Download/JARVIS-PRO-AI/app/src/main/AndroidManifest.xml:7:89-136
+uses-sdk
+INJECTED from /mnt/sdcard/Download/JARVIS-PRO-AI/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /mnt/sdcard/Download/JARVIS-PRO-AI/app/src/main/AndroidManifest.xml
+INJECTED from /mnt/sdcard/Download/JARVIS-PRO-AI/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /mnt/sdcard/Download/JARVIS-PRO-AI/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /mnt/sdcard/Download/JARVIS-PRO-AI/app/src/main/AndroidManifest.xml
